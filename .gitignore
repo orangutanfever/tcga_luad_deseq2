@@ -1,0 +1,7 @@
+GDCdata/
+*.rda
+*.RData
+*.Rhistory
+
+# R artifacts
+.Rproj.user/
